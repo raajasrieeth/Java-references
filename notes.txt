@@ -1,0 +1,13 @@
+There are current three sets of Java APIs for graphics programming:
+ AWT (Abstract Windowing Toolkit), Swing and JavaFX.
+
+--> The java.awt package contains the core AWT graphics classes:
+GUI Component classes, such as Button, TextField, and Label.
+GUI Container classes, such as Frame and Panel.
+Layout managers, such as FlowLayout, BorderLayout and GridLayout.
+Custom graphics classes, such as Graphics, Color and Font.
+
+--> The java.awt.event package supports event handling:
+Event classes, such as ActionEvent, MouseEvent, KeyEvent and WindowEvent,
+Event Listener Interfaces, such as ActionListener, MouseListener, MouseMotionListener, KeyListener and WindowListener,
+Event Listener Adapter classes, such as MouseAdapter, KeyAdapter, and WindowAdapter.
